@@ -1,0 +1,31 @@
+@mixin sizeContentServices {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    @media(max-width:560px){
+        width: 90%;
+        margin: 10px 5%;
+    }
+    @media(min-width:560px){
+        width: 30%;
+        height: 350px;
+        margin: 10px;
+    }
+    
+}
+
+@mixin  imgMiVi {
+    margin: -50px 0 0 -250px ;
+    width: 50px;
+    transition: all 1s;
+}
+@mixin h2MiVi {
+    margin-top: -50px;
+}
+@mixin pMiVi {
+    display: block;
+    color: $color-white;
+    text-align: justify;
+    font-size: 1em;
+    transition: all 1s;
+}

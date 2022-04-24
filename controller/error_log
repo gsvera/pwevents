@@ -1,0 +1,55 @@
+[04-Jul-2021 00:27:38 America/Mexico_City] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/pwevents/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[04-Jul-2021 05:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[04-Jul-2021 05:48:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[04-Jul-2021 05:48:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[04-Jul-2021 05:49:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[04-Jul-2021 05:53:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[04-Jul-2021 00:55:43 America/Mexico_City] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/pwevents/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[04-Jul-2021 00:57:28 America/Mexico_City] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/pwevents/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[05-Jul-2021 15:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[05-Jul-2021 15:56:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[05-Jul-2021 15:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[05-Jul-2021 15:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[05-Jul-2021 16:31:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[05-Jul-2021 16:32:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[05-Jul-2021 17:01:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/pwevents/public_html/controller/galery.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pwevents/public_html/controller/galery.php on line 11
+[05-Jul-2021 21:32:30 America/Mexico_City] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/pwevents/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[05-Jul-2021 21:35:32 America/Mexico_City] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/pwevents/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[08-Jul-2021 22:37:34 America/Mexico_City] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/pwevents/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[21-Jul-2021 12:19:09 America/Mexico_City] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/pwevents/public_html/phpmailer/PHPMailerAutoload.php on line 45
